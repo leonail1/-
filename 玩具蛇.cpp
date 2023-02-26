@@ -1,3 +1,7 @@
+/*
+https://www.lanqiao.cn/problems/1022/learning/?page=1&first_category_id=1&sort=students_count&name=玩具蛇
+*/
+
 #include<string>
 #include<iostream>
 #include<vector>
